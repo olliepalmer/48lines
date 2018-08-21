@@ -3,4 +3,4 @@ This poem is a list of 48 lines from Hollywood films which begin with the word l
 
 The lines were compiled from 617 films spanning over 50 years from the [Cornell Movie Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). Films quoted in this reading include Apocalypse Now, Jaws, Sideways, Fargo, Airplane II, Magnolia, Pretty Woman, Austin Powers, Vertigo and more - see [this file](https://github.com/olliepalmer/48lines/blob/master/48%20lines%20about%20love%2C%20alphabetically%20ordered%2C%20with%20film%20titles) for the list of films. Note that the original list of lines was 60 lines, but there were a few expletives, which were forbidden in the ceremony. The project isn't entirely purist.
 
-I will post the original Python code used to strip metadata and order the file here (which is fast and hacky), along with the 304,446-line master text file it spits out. But perhaps once I'm back from honeymooning. :)
+The Python file to create the alphabetised movie dialogues is in ```python-script.py```. You might find a better way to do it, but this one works (mostly). :)
